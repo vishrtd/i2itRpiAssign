@@ -56,9 +56,9 @@ def main():
     lcd_string("Rathod",LCD_LINE_2)
     time.sleep(3) # 3 second delay
     # Send some text
-    lcd_string("1234567890123456",LCD_LINE_1)
-    lcd_string("abcdefghijklmnop",LCD_LINE_2)
-    time.sleep(3)
+    #lcd_string("1234567890123456",LCD_LINE_1)
+    #lcd_string("abcdefghijklmnop",LCD_LINE_2)
+    #time.sleep(3)
 
 
 def lcd_init():
